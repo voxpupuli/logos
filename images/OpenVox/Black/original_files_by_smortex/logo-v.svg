@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="logo-v.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">OpenVox Logo (letter variant)</title>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="2"
+     inkscape:cx="121"
+     inkscape:cy="144.75"
+     inkscape:window-width="1916"
+     inkscape:window-height="1030"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="38.129066"
+       y="301.98221"
+       width="707.67548"
+       height="402.64294"
+       id="rect1" />
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="openvox-logo-letter-v"
+       style="font-size:26.6667px;line-height:1.25;font-family:'Linux Biolinum';-inkscape-font-specification:'Linux Biolinum, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;fill:#000000;stroke-width:3.15172"
+       d="M 31.89211 5.0270833 C 28.246676 11.185404 23.872961 23.787695 23.872961 23.787695 L 31.89211 44.632934 C 32.210162 41.647217 33.73693 38.389292 36.060848 36.294942 C 34.305137 34.010237 31.138297 33.328539 29.807483 34.210315 C 31.539849 31.868218 34.883844 28.796028 41.1024 30.478759 C 43.866117 31.226597 46.69704 32.697404 48.506599 33.096171 C 53.149795 34.119416 56.62445 32.884814 56.62445 32.884814 C 56.58872 33.979411 57.136797 34.791689 58.270344 35.321358 C 53.419291 39.850291 47.04503 36.17292 42.555025 36.869584 C 37.637255 37.63255 31.980993 50.764343 31.980993 50.764343 L 31.775838 50.764343 C 24.443694 33.801905 19.09492 19.356405 15.729789 7.4279703 C 14.772232 7.5921754 13.240332 7.6739501 11.133687 7.6739501 C 8.7261147 7.6739501 7.043491 7.5921752 6.0859334 7.4279703 C 7.3170607 9.9449711 9.2187797 14.308714 11.790495 20.519161 C 14.389567 26.729607 17.467379 34.22555 21.024039 43.00771 C 24.608026 51.789901 27.302642 58.356204 29.1083 62.706249 L 31.447692 62.706249 L 38.953177 46.041634 C 41.307592 40.814039 43.691248 39.379886 50.616548 39.686466 C 52.662205 39.776996 56.897623 39.811651 59.32506 36.840645 C 62.822075 32.5604 61.857431 31.736374 59.78033 31.234269 C 56.728943 30.496676 50.677316 28.622059 50.20107 24.964884 C 50.101898 24.201741 49.778655 23.403812 49.384065 22.70249 L 56.23481 7.4253865 C 55.550856 7.5895957 54.581354 7.671883 53.322843 7.671883 C 51.188869 7.671883 49.77815 7.5892759 49.09416 7.4253865 L 49.09416 7.4315876 C 49.093903 7.4325294 49.093384 7.4337465 49.093127 7.4346882 L 49.093644 7.4279703 L 38.078295 18.16685 C 38.078295 18.16685 34.484162 8.8772674 31.89211 5.0270833 z M 31.914331 8.617045 C 33.518524 11.421938 35.910469 18.618502 35.910469 18.618502 C 32.893742 19.472953 30.241945 21.550624 29.228707 23.332426 C 29.228707 23.332426 30.590065 12.636417 31.914331 8.617045 z M 47.771244 11.18588 L 46.149637 19.5802 C 45.384888 19.176858 43.775867 18.536651 43.213382 18.427299 L 47.771244 11.18588 z M 40.860555 25.571565 C 42.541931 25.59504 43.965254 26.289266 45.035493 27.709936 C 42.588875 28.417034 41.169089 27.263478 40.124165 25.602571 C 40.374616 25.578717 40.620358 25.568212 40.860555 25.571565 z " />
+  </g>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:title>OpenVox Logo (letter variant)</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Romain Tartiere</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:date>2025-10-20</dc:date>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
