@@ -26,7 +26,9 @@ Here you can find all of logos that Voxpupuli uses
 
 ![OpenVox logo Hexagon](images/OpenVox/Sticker/HexagonSticker.png)
 
-![OpenVox logo White](images/OpenVox/White/openvox_bildmarke/openvox_bildmarke_weiss.png)
+![OpenVox logo White](images/OpenVox/White/openvox_bildmarke/openvox_bildmarke_with_background.png)
+
+> note: the black background is added for visibility. Please use the [transparent white version](images/OpenVox/White/openvox_bildmarke/openvox_bildmarke_weiss.png) when possible.
 
 # License
 
